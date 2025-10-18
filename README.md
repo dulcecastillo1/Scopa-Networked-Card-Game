@@ -43,8 +43,12 @@ This project is a two-player networked Java card game inspired by the traditiona
    
    java Server
 
-   In another terminal (command prompt)
-   java Client
 
    In another terminal (command prompt)
+   
+   java Client
+
+
+   In another terminal (command prompt)
+   
    java Client
