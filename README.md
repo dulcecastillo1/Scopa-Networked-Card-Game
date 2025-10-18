@@ -40,6 +40,7 @@ This project is a two-player networked Java card game inspired by the traditiona
 1. **Compile:**
 
    javac *.java
+   
    java Server
 
    In another terminal (command prompt)
